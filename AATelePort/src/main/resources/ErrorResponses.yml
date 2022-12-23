@@ -1,0 +1,21 @@
+LM_0001:
+  Title:Planet not Available
+  Body:Planet not Available
+  Description:Planet not Available
+  HttpStatus:400
+LM_0002:
+  Title:Planet not Available
+  Body:Planet not Available with the given Id
+  Description:The Id given is not found in the DB , Provide the correct Id
+  HttpStatus:401
+LM_0003:
+  Title:Planet name provided is incorrect
+  Body:Planet name provided is incorrect and not relevent
+  Description:Planet name should be in the correct format
+  HttpStatus:404
+LM_0004:
+  Title:The requested Object is not found
+  Body:The requested Object is not found
+  Description:The requested Object is not found , try different parameter
+  HttpStatus:405
+
